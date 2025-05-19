@@ -1,0 +1,13 @@
+# Ignore all private key files
+*.key
+
+# Ignore OpenSSL serial files
+*.srl
+
+# Ignore any logs
+*.log
+
+# macOS 文件系统生成的无用文件
+.DS_Store
+
+*.pem
